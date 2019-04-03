@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Aaron Powell',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'University of Kent, Computer Science Student. Placement year at ARM.',
     contacts: {
       email: '#',
       telegram: '#',
